@@ -213,7 +213,7 @@ public class Colosseum {
         myScan = new Scanner(System.in);
         initializePokemon();
         determineOrder();
-        System.out.println("");
+        System.out.println("This is your new Pokemon");
         boolean ifWinner = false;
 
         /*
